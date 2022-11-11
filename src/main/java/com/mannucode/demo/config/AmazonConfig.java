@@ -11,7 +11,7 @@ public class AmazonConfig {
     
     public AmazonS3 s3() {
         AWSCredentials awscCredentials = new BasicAWSCredentials(
-            "  ", 
+            "", 
             ""
         );
 
